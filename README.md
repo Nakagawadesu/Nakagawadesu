@@ -12,4 +12,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-![NakagawaDesu github stats](https://github-readme-stats.vercel.app/api?username=Nakagawadesu&theme=midnight-purple&show_icons=true)
+### Github stats :bar_chart:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagawadesu&theme=midnight-purple&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
