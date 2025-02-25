@@ -1,6 +1,5 @@
 ### Hi there 👋
- - I'm a Full Stack Developer on a journey to complete my Bachelor's degree in Computer Engineering. 🎓
- - I'm currently fascinated by blockchain and Decentralized Finance
+ - I'm a Computer Science Enthusiast on a journey to get my Bachelor's degree in Computer Engineering. 🎓
 ### Tech stack :man_technologist:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
