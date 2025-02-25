@@ -23,9 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagawadesu&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 
 
-### My weekly contributions 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nakagawadesu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### LinkedIn
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-nakagawa-193441198/?locale=en_US)
