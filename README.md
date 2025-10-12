@@ -1,5 +1,6 @@
 ### Hi there 👋
- - I'm a Computer Science Enthusiast on a journey to get my Bachelor's degree in Computer Engineering. 🎓
+ - I'm a Cyber Security Enthusiast with a Bachelor's degree on COmputer Engineering on a journey to get my Masters's degree in Electrical Engineering. 🎓
+ - I have experience in Web Technologies and General Cyber Security concepts ,I invite you to take a look at my Portfólio
 ### Tech stack :man_technologist:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
