@@ -1,6 +1,7 @@
 ### Hi there 👋
  - I'm a Cyber Security Enthusiast with a Bachelor's degree on Computer Engineering on a journey to get my Masters's degree in Electrical Engineering. 🎓
  - I have experience in Web Technologies and General Cyber Security concepts ,I invite you to take a look at my Portfólio
+ - Check my CyberSecurity Portifolio : https://github.com/Nakagawadesu/CyberSecPortfolio , here is wehre i keep my tools and write ups from labs
 ### Tech stack :man_technologist:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
